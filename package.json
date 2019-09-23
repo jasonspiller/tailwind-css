@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "Initial testing of Tailwind CSS, a low-level CSS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonspiller/tailwind-css.git"
+  },
+  "author": "Jason Spiller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonspiller/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/jasonspiller/tailwind-css#readme"
+}
