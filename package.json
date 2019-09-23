@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jasonspiller/tailwind-css/issues"
   },
-  "homepage": "https://github.com/jasonspiller/tailwind-css#readme"
+  "homepage": "https://github.com/jasonspiller/tailwind-css#readme",
+  "dependencies": {
+    "tailwindcss": "^1.1.2"
+  }
 }
